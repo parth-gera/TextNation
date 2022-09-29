@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextNation/static/css/main.1da4b13d.css",
+    "main.js": "/TextNation/static/js/main.fff79228.js",
+    "static/js/787.cdbe0d04.chunk.js": "/TextNation/static/js/787.cdbe0d04.chunk.js",
+    "index.html": "/TextNation/index.html",
+    "main.1da4b13d.css.map": "/TextNation/static/css/main.1da4b13d.css.map",
+    "main.fff79228.js.map": "/TextNation/static/js/main.fff79228.js.map",
+    "787.cdbe0d04.chunk.js.map": "/TextNation/static/js/787.cdbe0d04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da4b13d.css",
+    "static/js/main.fff79228.js"
+  ]
+}
